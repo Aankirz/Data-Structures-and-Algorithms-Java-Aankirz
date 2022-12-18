@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LEC10/LEC10.iml" filepath="$PROJECT_DIR$/LEC10/LEC10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lec_11/LEC12.iml" filepath="$PROJECT_DIR$/Lec_11/LEC12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC12*/LEC12*.iml" filepath="$PROJECT_DIR$/LEC12*/LEC12*.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEC9.iml" filepath="$PROJECT_DIR$/LEC9.iml" />
+    </modules>
+  </component>
+</project>

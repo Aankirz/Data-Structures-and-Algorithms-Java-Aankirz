@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BackTracking/BackTracking.iml" filepath="$PROJECT_DIR$/BackTracking/BackTracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GRAPHS/GRAPHS.iml" filepath="$PROJECT_DIR$/GRAPHS/GRAPHS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GRAPHS/GRAPHS_Assignment.iml" filepath="$PROJECT_DIR$/GRAPHS/GRAPHS_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/HashMaps.iml" filepath="$PROJECT_DIR$/BinaryTree/HashMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmaps/Hashmaps.iml" filepath="$PROJECT_DIR$/Hashmaps/Hashmaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS-1/OOPS-1.iml" filepath="$PROJECT_DIR$/OOPS-1/OOPS-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS-2/OOPS-2.iml" filepath="$PROJECT_DIR$/OOPS-2/OOPS-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS-3/OOPS-3.iml" filepath="$PROJECT_DIR$/OOPS-3/OOPS-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS_4/OOPS_4.iml" filepath="$PROJECT_DIR$/OOPS_4/OOPS_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueues/PriorityQueues.iml" filepath="$PROJECT_DIR$/PriorityQueues/PriorityQueues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSION/RECURSION.iml" filepath="$PROJECT_DIR$/RECURSION/RECURSION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RECURSION/RECURSION Assignment.iml" filepath="$PROJECT_DIR$/RECURSION/RECURSION Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revision/Revision.iml" filepath="$PROJECT_DIR$/Revision/Revision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksandQues/StacksandQues.iml" filepath="$PROJECT_DIR$/StacksandQues/StacksandQues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TREES/TREES.iml" filepath="$PROJECT_DIR$/TREES/TREES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Time&amp;Space/Time&amp;Space.iml" filepath="$PROJECT_DIR$/Time&amp;Space/Time&amp;Space.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/Trees.iml" filepath="$PROJECT_DIR$/LinkedList/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries&amp;HuffmanCoding/Tries&amp;HuffmanCoding.iml" filepath="$PROJECT_DIR$/Tries&amp;HuffmanCoding/Tries&amp;HuffmanCoding.iml" />
+    </modules>
+  </component>
+</project>

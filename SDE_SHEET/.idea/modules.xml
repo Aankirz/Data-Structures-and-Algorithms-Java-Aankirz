@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SDE_SHEET.iml" filepath="$PROJECT_DIR$/SDE_SHEET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Striver's/Striver's.iml" filepath="$PROJECT_DIR$/Striver's/Striver's.iml" />
+    </modules>
+  </component>
+</project>
